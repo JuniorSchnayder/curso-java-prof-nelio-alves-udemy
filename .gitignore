@@ -1,0 +1,12 @@
+# Eclipse
+.metadata/
+.recommenders/
+.settings/
+bin/
+
+# Java
+*.class
+
+# Sistema
+.DS_Store
+Thumbs.db
